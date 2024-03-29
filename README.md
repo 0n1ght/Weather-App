@@ -1,7 +1,7 @@
 # Weather-App
 
 ## Description
-Simple application where you can quickly check the weather in any place on Earth.
+Simple application where you can check the weather in any place on Earth.
 
 Developed by [Karol Kasperek](https://github.com/KarolKasperek).
 
