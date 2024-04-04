@@ -7,7 +7,7 @@ Developed by [Karol Kasperek](https://github.com/KarolKasperek).
 
 
 ## Screenshot
-<img width="1512" alt="Screenshot 2024-03-27 at 10 23 21 PM" src="https://github.com/KarolKasperek/weather-app/assets/105314335/d7a0af54-9043-460c-a408-9250c64af018">
+![Screenshot 2024-04-04 222056](https://github.com/KarolKasperek/Weather-App/assets/105314335/7536fe40-34b2-45ff-9256-38b057e962a9)
 
 ## How to run
 - Clone the repository
