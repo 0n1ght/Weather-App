@@ -1,5 +1,5 @@
 import React from 'react';
-import './WeatherCard.css';
+import styles from './WeatherCard.module.css';
 
 function WeatherCard({ weatherData }) {
   if (!weatherData) return null;
@@ -28,12 +28,12 @@ function WeatherCard({ weatherData }) {
   };
 
   return (
-    <div className="card">
-      <h1 className="cityDisplay">{city}</h1>
-      <p className="tempDisplay">{(temp - 273.15).toFixed(1)}°C</p>
-      <p className="humidityDisplay">Humidity: {humidity}%</p>
-      <p className="descDisplay">{description}</p>
-      <p className="weatherEmoji">{getWeatherEmoji(id)}</p>
+    <div className={styles.card}>
+      <h1 className={styles.cityDisplay}>{city}</h1>
+      <p className={styles.tempDisplay}>{(temp - 273.15).toFixed(1)}°C</p>
+      <p className={styles.humidityDisplay}>Humidity: {humidity}%</p>
+      <p className={styles.descDisplay}>{description}</p>
+      <p className={styles.weatherEmoji}>{getWeatherEmoji(id)}</p>
     </div>
   );
 }

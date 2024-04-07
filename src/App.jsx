@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './App.css';
-import WeatherForm from './WeatherForm/WeatherForm.jsx';
-import WeatherCard from './WeatherCard/WeatherCard.jsx';
+import WeatherForm from './weatherForm/WeatherForm.jsx';
+import WeatherCard from './weatherCard/WeatherCard.jsx';
 
 function App() {
   const [weatherData, setWeatherData] = useState(null);
