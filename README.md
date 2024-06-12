@@ -19,4 +19,4 @@ git clone https://github.com/karolkasperek/weather-app
 npm install
 npm run dev
 ```
-- Open http://localhost:5173/ url in your web browser
+- Open http://localhost:5173/ in your web browser
