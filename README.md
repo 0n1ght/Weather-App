@@ -3,13 +3,10 @@
 ## Description
 Simple application where you can check the weather in any place on Earth.
 
-Developed by [Karol Kasperek](https://github.com/KarolKasperek).
-
-
 ## Screenshot
 ![Screenshot 2024-04-04 222056](https://github.com/KarolKasperek/Weather-App/assets/105314335/7536fe40-34b2-45ff-9256-38b057e962a9)
 
-## How to run
+## Quickstart
 - Clone the repository
 ```
 git clone https://github.com/karolkasperek/weather-app
